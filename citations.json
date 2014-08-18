@@ -1447,8 +1447,9 @@
                 "mot3": "gouvernants",
                 "reponse": "commerçants"
                 }
+                ,
 
-{
+		{
                 "auteur": " Honoré de Balzac",
                 "phrase": "Là où ....... commence, les naïfs sentiments cessent.",
                 "mot1": "l'amour",
