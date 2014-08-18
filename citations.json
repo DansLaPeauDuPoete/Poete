@@ -1447,6 +1447,15 @@
                 "mot3": "gouvernants",
                 "reponse": "commerçants"
                 }
+
+{
+                "auteur": " Honoré de Balzac",
+                "phrase": "Là où ....... commence, les naïfs sentiments cessent.",
+                "mot1": "l'amour",
+                "mot2": "l'ambition",
+                "mot3": "le savoir",
+                "reponse": "l'ambition"
+                }
                 ,
                 {
                 "auteur": " Honoré de Balzac",
@@ -1772,6 +1781,18 @@
                 "reponse": "intéressante"
                 }
                 ,
+                
+                {
+                "auteur": "Friedrich Nietzsche",
+                "phrase": "La force d'un esprit se mesure à la quantité de ....... qu'il est capable de supporter.",
+                "mot1": "vérité",
+                "mot2": "souffrance",
+                "mot3": "mensonge",
+                "reponse": "vérité"
+                }
+                ,
+                
+                
                 {
                 "auteur": "Chateaubriand",
                 "phrase": "Le .......... s’évanouit quand on ose le regarder.",
